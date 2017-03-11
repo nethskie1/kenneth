@@ -1,0 +1,20 @@
+#kenneth {
+	color: red;
+}
+
+.PSet {
+	color: yellow;
+}
+
+p {
+	color: yellow;
+}
+ 
+#background{
+	background-color: red;
+	margin:50px;
+	margin-left:10%;
+	margin-right: 15%;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
